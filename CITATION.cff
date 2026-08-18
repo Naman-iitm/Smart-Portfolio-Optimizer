@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Smart Portfolio Optimizer"
+type: software
+authors:
+  - family-names: "Jha"
+    given-names: "Naman"
+repository-code: "https://github.com/Naman-iitm/Smart-Portfolio-Optimizer"
+license: "GPL-3.0"
