@@ -1,0 +1,11 @@
+Push / Pull Request
+        ↓
+Python setup
+        ↓
+Install dependencies
+        ↓
+Lint
+        ↓
+Run tests
+        ↓
+Build package
